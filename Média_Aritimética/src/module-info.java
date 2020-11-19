@@ -1,0 +1,2 @@
+module Média_Aritimética {
+}
